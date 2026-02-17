@@ -107,3 +107,14 @@ API Gateway Routing
 RESTful APIs
 
 Scalable Design
+
+
+---
+
+## 👨‍💻 Developer
+
+**Shaik Rizwan**
+
+GitHub: https://github.com/RizwanShaik1029
+
+
