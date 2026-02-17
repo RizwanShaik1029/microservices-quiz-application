@@ -60,28 +60,34 @@ microservices-quiz-application/
 ```bash
 git clone https://github.com/RizwanShaik1029/microservices-quiz-application.git
 cd microservices-quiz-application
-...
+```
 
 ### 2️⃣ Start Eureka Server
+```
 cd eureka-server
 mvn spring-boot:run
-
+```
 Open:
 http://localhost:8761
 
 
 ### 3️⃣ Start API Gateway
+```
 cd api-gateway
 mvn spring-boot:run
+```
 
 ### 4️⃣ Start Other Services
 #### Quiz Service
+```
 cd quiz-service
 mvn spring-boot:run
-
+```
 #### Question Service
+```
 cd question-service
 mvn spring-boot:run
+```
 
 ## 🔌 API Access (Via Gateway)
 ### Example URLs:
