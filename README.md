@@ -57,7 +57,7 @@ microservices-quiz-application/
 
 ### 1️⃣ Clone Repository
 
-bash
+```bash
 git clone https://github.com/RizwanShaik1029/microservices-quiz-application.git
 cd microservices-quiz-application
 
